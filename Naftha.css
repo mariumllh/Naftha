@@ -65,7 +65,7 @@ nav a:hover {
 }
 
 .hero {
-    background-image: url("../img/naftha.png");
+    background-image: url("img/naftha.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
